@@ -61,3 +61,6 @@ ampy -p /dev/tty.SLAB_USBtoUART put boot.py
 ```python
 ampy -p /dev/tty.SLAB_USBtoUART run main.py
 ```
+
+## 8. Micropython documentation
+https://docs.micropython.org/en/latest/index.html
