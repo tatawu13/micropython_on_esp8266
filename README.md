@@ -25,8 +25,8 @@ esptool.py --port /dev/tty.SLAB_USBtoUART --baud 460800 write_flash --flash_size
 
 ## 5. REPL
 Access REPL using:
-```
-screen /dev/tty.yourdevicename 9600
+```python
+screen /dev/tty.SLAB_USBtoUART 9600
 ```
 
 ## 6. WiFi REPL
